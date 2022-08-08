@@ -20,4 +20,4 @@
 
 ## Learning
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" alt="python" /> Python
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> Go
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="16" alt="go" /> Go
