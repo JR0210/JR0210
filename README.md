@@ -2,7 +2,7 @@
 
 ## I'm a fullstack developer currently working on a few things:
 - 💻 Personal scrapers using Python w/ Flask 
-- 📅 Customisable front end for group activities using Next.js & Directus
+- 🔫 Damage calculator for [Rust](https://rust.facepunch.com/)
 
 ## Experience in
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" alt="JS" /> JavaScript
