@@ -6,7 +6,7 @@ Hey there! I'm Jacob, a passionate fullstack developer with a love for crafting 
 
 🖥️ Building personal scrapers using Python with Flask.  
 🔫 Creating a Rust damage calculator for [Rust](https://rust.facepunch.com/).  
-🏠 Developing a property info aggregator for rightmove.
+🩺 Health management app using React Native & NestJS
 
 ## Tech Stack
 
