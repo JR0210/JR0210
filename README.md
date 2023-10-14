@@ -5,8 +5,8 @@ Hey there! I'm Jacob, a passionate fullstack developer with a love for crafting 
 ## What I'm Up To
 
 🖥️ Building personal scrapers using Python with Flask.  
-🚗 AutoTrader Chrome extension for more informed data.
-🩺 Health management app using React Native & NestJS.
+🚗 AutoTrader Chrome extension for more informed data.  
+🩺 Health management app using React Native & NestJS.  
 
 ## Tech Stack
 
