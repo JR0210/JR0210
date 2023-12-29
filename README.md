@@ -1,12 +1,11 @@
 # Jacob Robinson - Fullstack Developer
 
-Hey there! I'm Jacob, a passionate fullstack developer with a love for crafting digital experiences. Currently, I'm diving into various projects that keep my coding gears turning.
+Hey there! I'm Jacob, a passionate fullstack developer with a love for crafting digital experiences.
 
 ## What I'm Up To
 
 🖥️ Building personal scrapers using Python with Flask.  
 🚗 AutoTrader Chrome extension for more informed data.  
-🩺 Health management app using React Native & NestJS.  
 
 ## Tech Stack
 
