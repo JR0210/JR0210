@@ -4,8 +4,7 @@ Hey there! I'm Jacob, a passionate fullstack developer with a love for crafting 
 
 ## What I'm Up To
 
-🖥️ Building personal scrapers using Python with Flask.  
-🚗 AutoTrader Chrome extension for more informed data.  
+🚗🏁 UK track day aggregator with automatic updating for most major providers
 
 ## Tech Stack
 
