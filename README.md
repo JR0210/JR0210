@@ -1,11 +1,13 @@
 # Jacob Robinson - Fullstack Developer
 
 Hey there! I'm Jacob, a passionate fullstack developer with a love for crafting digital experiences.
+
 I'm currently experimenting with agentic development for POC projects.
 
 ## What I'm Up To
 
 🚗🏁 UK track day aggregator with automatic updating for most major providers
+
 🏎️🧑‍🏫 Sim racing coach with live prompts utilising Second Monitor for telemetry exports
 
 ## Tech Stack
