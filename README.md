@@ -1,37 +1,43 @@
-# Jacob Robinson - Product Engineer (Frontend focus)
+# Jacob Robinson - Product Engineer (Frontend-focused)
 
-Hey there! I'm Jacob, a passionate product engineer with a love for crafting digital experiences.
+Hey! I'm Jacob, a frontend-focused product engineer who's spent the last 8+ years building complex web applications, internal platforms, and tools that people depend on.
 
-I'm currently experimenting with agentic development for POC projects.
+Currently exploring agentic development and MCP-based workflows for rapid prototyping and internal tooling.
 
-## What I'm Up To
+## What I'm Building
 
-🚗🏁 UK track day aggregator with automatic updating for most major providers [TrackAtlas](https://www.trackatlas.co.uk)
+🏠 [Property Ranker](https://property-ranker.vercel.app/) - Geospatial property comparison tool using UK Police API, Just Eat proximity, and Turf.js
 
-🏎️🧑‍🏫 Sim racing coach with live prompts utilising Second Monitor for telemetry exports
+🚗 [TrackAtlas](https://www.trackatlas.co.uk) - UK track day aggregator with automated scraping across 7 providers
+
+🎮 Game Server Browser - Next.js dashboard integrating Contentful, Pterodactyl, and GameDig with SWR polling
+
+🏎️ AutoRaider - Browser extension that enhanced AutoTrader listings (RIP after markup changes)
 
 ## Tech Stack
 
-Frontend? Backend? I've got them both covered! Here's how my skills align:
-
+Frontend-led but comfortable working across the stack:
 ```javascript
 describe('Jacob Robinson', () => {
-  test('Tech Stack', () => {
-    const frontendTech = ['JavaScript', 'TypeScript', 'React', 'Next.js', 'Redux'];
-    const backendTech = ['Node.js', 'Express', '.NET Core'];
+  test('Core Stack', () => {
+    const frontend = ['TypeScript', 'React', 'Next.js', 'Vite', 'Tailwind'];
+    const testing = ['Jest', 'Cypress', 'MSW', 'Playwright'];
+    const backend = ['Node.js', 'Python/FastAPI', 'Neon Postgres'];
+    const tooling = ['Nx', 'Vercel', 'GitHub Actions'];
     
-    expect(techStack.frontend).toEqual(expect.arrayContaining(frontendTech));
-    expect(techStack.backend).toEqual(expect.arrayContaining(backendTech));
+    expect(dailyWork).toContain(...frontend, ...testing);
+    expect(sideProjects).toContain(...backend);
+    expect(devExperience).toInclude(...tooling);
   });
 
-  test('Learning Wishlist', () => {
-    const expectedSkills = ['Python', 'Go', 'Kotlin'];
-    expect(learning.skills).toEqual(expect.arrayContaining(expectedSkills));
+  test('Working Knowledge', () => {
+    const exposure = ['Kotlin/Spring Boot', '.NET Core', 'GraphQL'];
+    expect(canOnboardOnto).toEqual(expect.arrayContaining(exposure));
   });
 });
 ```
 
-Connect with me and let's build something amazing together!
+Currently at Allica Bank building internal case-management platforms and AI-assisted tooling.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jacob-robinson-dev/)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green)](https://www.upwork.com/freelancers/~01116c740977d15990)
+[![Website](https://img.shields.io/badge/Website-jacobrobinson.dev-orange)](https://jacobrobinson.dev)
