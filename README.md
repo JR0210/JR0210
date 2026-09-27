@@ -1,8 +1,6 @@
 # Jacob Robinson — Full-stack Product Engineer
 
-Hey, I'm Jacob. I've spent the last 8+ years building product-facing platforms, internal tools, and the kind of software that ops teams and engineers actually depend on day-to-day.
-
-Currently at Allica Bank working on case management infrastructure and AI-assisted developer tooling.
+Hey, I'm Jacob. I've spent the last 9+ years building product-facing platforms, internal tools, and the kind of software that ops teams and engineers actually depend on day-to-day.
 
 ## What I'm building
 
